@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Koi.com </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://cdn.jsdelivr.net/npm/web3@1.6.1/dist/web3.min.js">
+      
+  </script>
+
+</head>
+<img align = "upperleft"><img src = "Japanese Koi fish.jpg" alt="Japanese Koi fish" class = left, width="100px", height="100px"> </img align = "upperleft">
+    
+
+<body style = "background-color:lightblue">
+    <div style = "position:absolute; right:80px; top:20px; background-color:blueviolet;">
+            <button type ="button" onclick="initWeb3()" > Connect MetaMask </button>
+    <button type =button", onclick = "withdraw()"> Withdraw </button>
+    <button type = "button", onclick="getBalance()"> Balance </button>
+    <button type = "button", onclick="getOwnerofToken()">Confirm Owner of Token </button>
+    <button type = "button", onclick="transferToken()"> Transfer Token </button>
+    <button type = "button", onclick="burntoken()"> Torch Token </button>
+      </div>
+   
+<h1></center>  Current Item On Sale </current></h1>
+    <div style = "text-align:center;"
+ </center><img src ="msi ventus geforce rtx 3060.jpg" alt = "Geforce Rtx GPU" class="center" > </center>
+    </div>
+
+
+<embed type>
+</center> <caption>Price is: 250etherum  </caption></center>
+   
+</center><button type ="button", onclick ="purchase()"> Purchase </button></center> 
+    
+    
+    
+ 
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+    <script src="script.js"></script>
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+
+
+</body>
+
+</html>
+<!-- imported from https://medium.com/coinmonks/web3-js-ethereum-javascript-api-72f7b22e2f0a->
